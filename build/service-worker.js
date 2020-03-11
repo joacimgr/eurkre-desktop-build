@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "www.kreativaeuropa.se/precache-manifest.a02c845bb5e65be5fd9dacb80b7d2a09.js"
+  "www.kreativaeuropa.se/precache-manifest.e3a1cb1589a64e85098abb86b118ac43.js"
 );
 
 self.addEventListener('message', (event) => {

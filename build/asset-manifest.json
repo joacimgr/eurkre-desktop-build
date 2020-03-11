@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "www.kreativaeuropa.se/static/css/main.4f7fc55b.chunk.css",
-    "main.js": "www.kreativaeuropa.se/static/js/main.1244cf63.chunk.js",
-    "main.js.map": "www.kreativaeuropa.se/static/js/main.1244cf63.chunk.js.map",
+    "main.css": "www.kreativaeuropa.se/static/css/main.9a521e85.chunk.css",
+    "main.js": "www.kreativaeuropa.se/static/js/main.2a149513.chunk.js",
+    "main.js.map": "www.kreativaeuropa.se/static/js/main.2a149513.chunk.js.map",
     "runtime-main.js": "www.kreativaeuropa.se/static/js/runtime-main.a0358828.js",
     "runtime-main.js.map": "www.kreativaeuropa.se/static/js/runtime-main.a0358828.js.map",
-    "static/js/2.cbfa2590.chunk.js": "www.kreativaeuropa.se/static/js/2.cbfa2590.chunk.js",
-    "static/js/2.cbfa2590.chunk.js.map": "www.kreativaeuropa.se/static/js/2.cbfa2590.chunk.js.map",
+    "static/js/2.85a6a711.chunk.js": "www.kreativaeuropa.se/static/js/2.85a6a711.chunk.js",
+    "static/js/2.85a6a711.chunk.js.map": "www.kreativaeuropa.se/static/js/2.85a6a711.chunk.js.map",
     "index.html": "www.kreativaeuropa.se/index.html",
-    "precache-manifest.a02c845bb5e65be5fd9dacb80b7d2a09.js": "www.kreativaeuropa.se/precache-manifest.a02c845bb5e65be5fd9dacb80b7d2a09.js",
+    "precache-manifest.e3a1cb1589a64e85098abb86b118ac43.js": "www.kreativaeuropa.se/precache-manifest.e3a1cb1589a64e85098abb86b118ac43.js",
     "service-worker.js": "www.kreativaeuropa.se/service-worker.js",
-    "static/css/main.4f7fc55b.chunk.css.map": "www.kreativaeuropa.se/static/css/main.4f7fc55b.chunk.css.map",
-    "static/js/2.cbfa2590.chunk.js.LICENSE": "www.kreativaeuropa.se/static/js/2.cbfa2590.chunk.js.LICENSE",
+    "static/css/main.9a521e85.chunk.css.map": "www.kreativaeuropa.se/static/css/main.9a521e85.chunk.css.map",
+    "static/js/2.85a6a711.chunk.js.LICENSE": "www.kreativaeuropa.se/static/js/2.85a6a711.chunk.js.LICENSE",
     "static/media/SFI.png": "www.kreativaeuropa.se/static/media/SFI.d1682ae3.png",
     "static/media/background.mp4": "www.kreativaeuropa.se/static/media/background.3228c363.mp4",
     "static/media/drom.png": "www.kreativaeuropa.se/static/media/drom.3aa150c9.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a0358828.js",
-    "static/js/2.cbfa2590.chunk.js",
-    "static/css/main.4f7fc55b.chunk.css",
-    "static/js/main.1244cf63.chunk.js"
+    "static/js/2.85a6a711.chunk.js",
+    "static/css/main.9a521e85.chunk.css",
+    "static/js/main.2a149513.chunk.js"
   ]
 }

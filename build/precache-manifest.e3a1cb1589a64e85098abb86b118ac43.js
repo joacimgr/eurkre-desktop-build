@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7c3333653e30854c4f432b08f6752d9",
+    "revision": "1bc016e4117edff8823b0bbcea46caba",
     "url": "www.kreativaeuropa.se/index.html"
   },
   {
-    "revision": "3ec62d3fd0df5aaff6f9",
-    "url": "www.kreativaeuropa.se/static/css/main.4f7fc55b.chunk.css"
+    "revision": "1b3ed54a50ac2bbe5f83",
+    "url": "www.kreativaeuropa.se/static/css/main.9a521e85.chunk.css"
   },
   {
-    "revision": "be42db6bf50a4438c239",
-    "url": "www.kreativaeuropa.se/static/js/2.cbfa2590.chunk.js"
+    "revision": "cebda1a050e26e1f2ff3",
+    "url": "www.kreativaeuropa.se/static/js/2.85a6a711.chunk.js"
   },
   {
     "revision": "f032203ca460334c00de541c30a6078a",
-    "url": "www.kreativaeuropa.se/static/js/2.cbfa2590.chunk.js.LICENSE"
+    "url": "www.kreativaeuropa.se/static/js/2.85a6a711.chunk.js.LICENSE"
   },
   {
-    "revision": "3ec62d3fd0df5aaff6f9",
-    "url": "www.kreativaeuropa.se/static/js/main.1244cf63.chunk.js"
+    "revision": "1b3ed54a50ac2bbe5f83",
+    "url": "www.kreativaeuropa.se/static/js/main.2a149513.chunk.js"
   },
   {
     "revision": "4afab17589fd743d717e",
