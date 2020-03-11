@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.d9404cf1.chunk.css",
-    "main.js": "/static/js/main.3f12b81a.chunk.js",
-    "main.js.map": "/static/js/main.3f12b81a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ce6146d1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ce6146d1.js.map",
-    "static/js/2.5ef49aaf.chunk.js": "/static/js/2.5ef49aaf.chunk.js",
-    "static/js/2.5ef49aaf.chunk.js.map": "/static/js/2.5ef49aaf.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.22bfbf1b206b99871a415a3600d6785d.js": "/precache-manifest.22bfbf1b206b99871a415a3600d6785d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d9404cf1.chunk.css.map": "/static/css/main.d9404cf1.chunk.css.map",
-    "static/js/2.5ef49aaf.chunk.js.LICENSE": "/static/js/2.5ef49aaf.chunk.js.LICENSE",
-    "static/media/background.mp4": "/static/media/background.3228c363.mp4",
-    "static/media/dela.png": "/static/media/dela.d41942e6.png",
-    "static/media/drom.png": "/static/media/drom.3aa150c9.png",
-    "static/media/raster.png": "/static/media/raster.adc9f00e.png",
-    "static/media/skapa.png": "/static/media/skapa.6c3451ef.png"
+    "main.css": "www.kreativaeuropa.se/static/css/main.4f7fc55b.chunk.css",
+    "main.js": "www.kreativaeuropa.se/static/js/main.1244cf63.chunk.js",
+    "main.js.map": "www.kreativaeuropa.se/static/js/main.1244cf63.chunk.js.map",
+    "runtime-main.js": "www.kreativaeuropa.se/static/js/runtime-main.a0358828.js",
+    "runtime-main.js.map": "www.kreativaeuropa.se/static/js/runtime-main.a0358828.js.map",
+    "static/js/2.cbfa2590.chunk.js": "www.kreativaeuropa.se/static/js/2.cbfa2590.chunk.js",
+    "static/js/2.cbfa2590.chunk.js.map": "www.kreativaeuropa.se/static/js/2.cbfa2590.chunk.js.map",
+    "index.html": "www.kreativaeuropa.se/index.html",
+    "precache-manifest.a02c845bb5e65be5fd9dacb80b7d2a09.js": "www.kreativaeuropa.se/precache-manifest.a02c845bb5e65be5fd9dacb80b7d2a09.js",
+    "service-worker.js": "www.kreativaeuropa.se/service-worker.js",
+    "static/css/main.4f7fc55b.chunk.css.map": "www.kreativaeuropa.se/static/css/main.4f7fc55b.chunk.css.map",
+    "static/js/2.cbfa2590.chunk.js.LICENSE": "www.kreativaeuropa.se/static/js/2.cbfa2590.chunk.js.LICENSE",
+    "static/media/SFI.png": "www.kreativaeuropa.se/static/media/SFI.d1682ae3.png",
+    "static/media/background.mp4": "www.kreativaeuropa.se/static/media/background.3228c363.mp4",
+    "static/media/drom.png": "www.kreativaeuropa.se/static/media/drom.3aa150c9.png",
+    "static/media/raster.png": "www.kreativaeuropa.se/static/media/raster.adc9f00e.png",
+    "static/media/skapa.png": "www.kreativaeuropa.se/static/media/skapa.6c3451ef.png",
+    "static/media/tank.png": "www.kreativaeuropa.se/static/media/tank.5f834fcb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce6146d1.js",
-    "static/js/2.5ef49aaf.chunk.js",
-    "static/css/main.d9404cf1.chunk.css",
-    "static/js/main.3f12b81a.chunk.js"
+    "static/js/runtime-main.a0358828.js",
+    "static/js/2.cbfa2590.chunk.js",
+    "static/css/main.4f7fc55b.chunk.css",
+    "static/js/main.1244cf63.chunk.js"
   ]
 }
